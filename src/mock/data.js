@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profileImageCrop.jpeg',
-  paragraphOne: 'I am a pre-final year B.Tech undergraduate student at BMS Institute of Technology, Banglore. I have keen interest in web developement and I have good experience on web developement tools like HTML, CSS, JS, REACT, etc. ',
-  paragraphTwo: 'I have a sound knowledge of data sturctures and algorithms in C++ and advanced concepts like OOPs. I have basic knowledge of DBMS, MySQL and Operating systems.  ',
-  paragraphThree: 'I also have hands on experience on Arduino and IoT based projects.',
+  paragraphOne: 'I am a pre-final year B.Tech undergraduate student at BMS Institute of Technology, Banglore. I have a keen interest in web development and I have good experience with web development tools like HTML, CSS, JS, REACT, etc. ',
+  paragraphTwo: 'I have a sound knowledge of data structures and algorithms in C++ and advanced concepts like OOPs. I have basic knowledge of DBMS, MySQL and Operating systems. ',
+  paragraphThree: 'I also have hands-on experience on Arduino and IoT based projects.',
   resume: 'https://www.canva.com/design/DAEigNQciEE/uI9KQcaeVyc4KBeBI44Pxw/view?utm_content=DAEigNQciEE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // if no resume, the button will not show up
 };
 
